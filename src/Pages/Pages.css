@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.Center-Box {
+    border: 1px solid black;
+
+    display: flex;
+
+    margin: auto;
+    margin-top: 120px;
+
+    height: 200px;
+    width: 300px;
+}
+
+h1 {
+    margin: auto;
+}
+
+
