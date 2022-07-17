@@ -5,7 +5,7 @@ import Contact from './Pages/Contact';
 import Landing from './Pages/Landing';
 import Services from './Pages/Services';
 
-import {Routs, Route, Routes} from 'react-router-dom';
+import {Route, Routes} from 'react-router-dom';
 
 function App() {
   return (
